@@ -1,0 +1,11 @@
+C:\Users\mourad\source\repos\task\BookShop.Models\bin\Debug\net9.0\BookShop.Models.deps.json
+C:\Users\mourad\source\repos\task\BookShop.Models\bin\Debug\net9.0\BookShop.Models.dll
+C:\Users\mourad\source\repos\task\BookShop.Models\bin\Debug\net9.0\BookShop.Models.pdb
+C:\Users\mourad\source\repos\task\BookShop.Models\obj\Debug\net9.0\BookShop.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mourad\source\repos\task\BookShop.Models\obj\Debug\net9.0\BookShop.Models.AssemblyInfoInputs.cache
+C:\Users\mourad\source\repos\task\BookShop.Models\obj\Debug\net9.0\BookShop.Models.AssemblyInfo.cs
+C:\Users\mourad\source\repos\task\BookShop.Models\obj\Debug\net9.0\BookShop.Models.csproj.CoreCompileInputs.cache
+C:\Users\mourad\source\repos\task\BookShop.Models\obj\Debug\net9.0\BookShop.Models.dll
+C:\Users\mourad\source\repos\task\BookShop.Models\obj\Debug\net9.0\refint\BookShop.Models.dll
+C:\Users\mourad\source\repos\task\BookShop.Models\obj\Debug\net9.0\BookShop.Models.pdb
+C:\Users\mourad\source\repos\task\BookShop.Models\obj\Debug\net9.0\ref\BookShop.Models.dll

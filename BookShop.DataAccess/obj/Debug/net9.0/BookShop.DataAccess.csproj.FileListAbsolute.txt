@@ -1,0 +1,17 @@
+C:\Users\mourad\source\repos\task\BookShop.DataAccess\bin\Debug\net9.0\BookShop.DataAccess.deps.json
+C:\Users\mourad\source\repos\task\BookShop.DataAccess\bin\Debug\net9.0\BookShop.DataAccess.runtimeconfig.json
+C:\Users\mourad\source\repos\task\BookShop.DataAccess\bin\Debug\net9.0\BookShop.DataAccess.dll
+C:\Users\mourad\source\repos\task\BookShop.DataAccess\bin\Debug\net9.0\BookShop.DataAccess.pdb
+C:\Users\mourad\source\repos\task\BookShop.DataAccess\bin\Debug\net9.0\BookShop.Models.dll
+C:\Users\mourad\source\repos\task\BookShop.DataAccess\bin\Debug\net9.0\BookShop.Models.pdb
+C:\Users\mourad\source\repos\task\BookShop.DataAccess\obj\Debug\net9.0\BookShop.DataAccess.csproj.AssemblyReference.cache
+C:\Users\mourad\source\repos\task\BookShop.DataAccess\obj\Debug\net9.0\BookShop.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mourad\source\repos\task\BookShop.DataAccess\obj\Debug\net9.0\BookShop.DataAccess.AssemblyInfoInputs.cache
+C:\Users\mourad\source\repos\task\BookShop.DataAccess\obj\Debug\net9.0\BookShop.DataAccess.AssemblyInfo.cs
+C:\Users\mourad\source\repos\task\BookShop.DataAccess\obj\Debug\net9.0\BookShop.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\mourad\source\repos\task\BookShop.DataAccess\obj\Debug\net9.0\BookShop.02912EC4.Up2Date
+C:\Users\mourad\source\repos\task\BookShop.DataAccess\obj\Debug\net9.0\BookShop.DataAccess.dll
+C:\Users\mourad\source\repos\task\BookShop.DataAccess\obj\Debug\net9.0\refint\BookShop.DataAccess.dll
+C:\Users\mourad\source\repos\task\BookShop.DataAccess\obj\Debug\net9.0\BookShop.DataAccess.pdb
+C:\Users\mourad\source\repos\task\BookShop.DataAccess\obj\Debug\net9.0\BookShop.DataAccess.genruntimeconfig.cache
+C:\Users\mourad\source\repos\task\BookShop.DataAccess\obj\Debug\net9.0\ref\BookShop.DataAccess.dll
