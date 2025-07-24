@@ -1,0 +1,33 @@
+﻿@model IEnumerable<BookShop.Models.Category>
+
+<h2>Categories List</h2>
+
+<table class="table table-striped">
+    <thead class="thead-dark">
+        <tr>
+            <th>Category Name</th>
+            <th>Category Order</th>
+            <th>Is Active</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.catName</td>
+                <td>@item.catOrder</td>
+                <td>@(!item.markedAsDeleted ? "✔️ Active" : "❌ Inactive")</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-warning">Edit</a>
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-sm btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div>
+    <a asp-action="Create" class="btn btn-success">Create New</a>
+</div>
